@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+I am a young, enthusiastic software hacker (not cracker!) from Estonia. Problem solving skills, beautiful code, functional programming, Clojure, Python, linux are some of the topics that I get very excited about.
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+I try to give back to the community by teaching both university and middle school students programming and problem solving skills. The Estonian Information Technology College's Linux User Group (LUG) is also led by me.
 
-This theme is made by me. You have a nice day. ♥
+My blog is just a place where I write down my insight about topics I've successfully tackled. This is usually insight I wish someone had told me before I approached these topics myself. 
